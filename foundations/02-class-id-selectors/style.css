@@ -1,0 +1,20 @@
+p{
+    background-color: rgb(224, 140, 140);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#id-1{
+    color: blue;
+    font-size: 36px;
+}
+
+.Number-2{
+    font-size: 24px;
+}
+
+#id-2{
+    background-color: rgb(134, 235, 134);
+    font-size: 24px;
+    font-weight: bold;
+}
+
